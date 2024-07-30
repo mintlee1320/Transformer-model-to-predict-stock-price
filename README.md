@@ -1,4 +1,4 @@
-# Transformer-model-to-predict-stock-price
+# Model-to-predict-stock-price
 The code has been referenced in various places.
 
 I am just a student at NEU. And like many other students (maybe), I also have a passion for stocks. 
